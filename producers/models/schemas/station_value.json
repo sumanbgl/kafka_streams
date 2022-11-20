@@ -1,0 +1,10 @@
+{
+  "timestamp": "1243898909090913923090",
+  "station_id": "SBC",
+  "train_id": "horah",
+  "direction": "west",
+  "line": "a",
+  "train_status": "confirmed",
+  "prev_station_id": "CNT",
+  "prev_direction": "east"
+}
